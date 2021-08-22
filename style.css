@@ -1,0 +1,11 @@
+.screen{
+    background-color: red;
+    height: 80px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.button{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
